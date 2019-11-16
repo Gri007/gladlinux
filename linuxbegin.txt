@@ -1,0 +1,14 @@
+Welcome to Linux World
+
+alias
+cat
+cd
+chmod
+chown
+curl
+df
+diff
+echo
+exit
+
+
