@@ -10,5 +10,7 @@ df
 diff
 echo
 exit
-
+finger
+free
+grep
 
